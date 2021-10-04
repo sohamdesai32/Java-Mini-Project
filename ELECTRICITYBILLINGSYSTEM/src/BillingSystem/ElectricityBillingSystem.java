@@ -381,7 +381,7 @@ public class ElectricityBillingSystem extends javax.swing.JFrame {
         jLabel9.setBounds(30, 20, 230, 40);
 
         jLabel10.setFont(new java.awt.Font("Calibri", 1, 18)); // NOI18N
-        jLabel10.setText("COST OF GOVTELECTRITCITY DUTY")
+        jLabel10.setText("COST OF GOVTELECTRITCITY DUTY");
         jLabel10.setToolTipText("");
         jPanel3.add(jLabel10);
         jLabel10.setBounds(30, 120, 270, 40);
